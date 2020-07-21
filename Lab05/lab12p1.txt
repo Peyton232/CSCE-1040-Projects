@@ -1,0 +1,2 @@
+When we add virtual to the base function Payment() it allows a 
+child class to overirde what is inside the base class Payment().
